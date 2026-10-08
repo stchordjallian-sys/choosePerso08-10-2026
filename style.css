@@ -34,6 +34,7 @@ h2 {
 }
 .auto {
   max-width: 100%;
+  margin-top: 20px;
 }
 .boxx {
   justify-content: center;
